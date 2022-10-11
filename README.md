@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: stef.guler@gmail.com
 
-https://tenor.com/view/coding-gif-18657810
+![coder](https://tenor.com/view/coding-gif-18657810)
