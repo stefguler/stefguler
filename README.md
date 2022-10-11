@@ -6,4 +6,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: stef.guler@gmail.com
 
-![image](https://user-images.githubusercontent.com/93710089/195046376-fd8fb62c-22d5-452e-843f-5e741543cb4c.png)
+<div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
