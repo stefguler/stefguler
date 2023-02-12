@@ -1,5 +1,5 @@
 ### Hi there, I am Stefan Guler :call_me_hand:
-https://img.shields.io/github/followers/stefguler?label=stefguler&style=social
+[![GitHub stefguler](https://img.shields.io/github/followers/stefguler?label=follow%20me%21&style=social)](https://github.com/stefguler)
 
 - 🔭 I’m currently working on learning **Fullstack (Web) Developement**
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React and Angular for Frontend,  C#/.NET (and Python/Django) for Backend**
