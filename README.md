@@ -1,5 +1,8 @@
 ### Hi there, I am Stefan Guler :call_me_hand:
-[![Linkedin: stefan-guler](https://img.shields.io/badge/-Stefan Guler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefan-guler/)](https://www.linkedin.com/in/martin-hutchings-a2417883/](https://www.linkedin.com/in/stefan-guler/))
+
+[![Linkedin: stefan-guler](https://img.shields.io/badge/-stefanguler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefan-guler/)](https://www.linkedin.com/in/stefan-guler/)
+
+
 [![GitHub stefguler](https://img.shields.io/github/followers/stefguler?label=follow%20me%21&style=social)](https://github.com/stefguler)
 
 - 🔭 I’m currently working on learning **Fullstack (Web) Developement**
