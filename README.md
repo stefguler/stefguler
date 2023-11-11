@@ -6,6 +6,6 @@
 - 🌱 I'm currently embarked on an unwavering quest to enhance my proficiency in the .NET stack. My toolkit comprises C#, alongside an array of web technologies such as HTML, CSS, JavaScript and single-page application (SPA) frameworks like React and Angular. Additionally, I find immense delight in tinkering with all things in Python.
 - 👯 I'm on the lookout for opportunities to collaborate on projects that can supercharge my coding prowess. If it's a learning adventure, count me in!
 - 💬 Fire away with any questions you have; I'm here to chat about anything under the tech sun.
-- 📫 You can drop me a message at stef.guler@gmail.com to connect, collaborate, or just say hi!
+- 📫 You can drop me a message to connect, collaborate, or just say hi!
 
 ![coder](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
