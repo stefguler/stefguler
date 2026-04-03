@@ -1,11 +1,13 @@
-### Hi there, I am Stefan Guler :call_me_hand:
+# Hi there, I am Stefan Guler 🤙
 
 [![Linkedin: stefan-guler](https://img.shields.io/badge/-stefanguler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stefan-guler/)](https://www.linkedin.com/in/stefan-guler/) [![GitHub stefguler](https://img.shields.io/github/followers/stefguler?label=follow%20me%21&style=social)](https://github.com/stefguler)
 
-- 🔭 I'm fueled by an unrelenting passion for Fullstack Development.
-- 🌱 I'm currently embarked on an unwavering quest to enhance my proficiency in the .NET stack. My toolkit comprises C#, alongside an array of web technologies such as HTML, CSS, JavaScript and single-page application (SPA) frameworks like Blazor, React and Angular. Additionally, I find immense delight in tinkering with all things in Python.
-- 👯 I'm on the lookout for opportunities to collaborate on projects that can supercharge my coding prowess. If it's a learning adventure, count me in!
-- 💬 Fire away with any questions you have; I'm here to chat about anything under the tech sun.
-- 📫 You can drop me a message to connect, collaborate, or just say hi!
+- 🔭 Full-stack developer specializing in **.NET / ASP.NET Core / Blazor** and the modern JS ecosystem — **Next.js, React, TypeScript**.
+- 🤖 Genuinely passionate about **AI**, especially **Agentic Development** and **Specification Driven Development (SDD)**. I experiment with new tools, follow the latest research, and find ways to integrate AI meaningfully into real projects.
+- 🛠️ **Anthropic's ecosystem** is currently my go-to for AI-assisted development workflows.
+- 🌱 Always learning, always building. If there's a new tool worth exploring, I'm probably already tinkering with it.
+- 👯 Open to collaborations that push the boundaries of what's possible — especially at the intersection of **AI and full-stack engineering**.
+- 💬 Ask me anything about .NET, web dev, or AI tooling. Happy to chat.
+- 📫 Reach out — let's explore what we can build together!
 
 ![coder](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
